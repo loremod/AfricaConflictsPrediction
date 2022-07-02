@@ -1,1 +1,1 @@
-# AfricaConflictsPrediction
+# Africa Conflicts Prediction
